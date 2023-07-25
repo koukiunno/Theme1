@@ -60,9 +60,11 @@
 
 @media screen and (max-width:768px) {
   .main {
-    width: 100%;
+    width: 90%;
+    margin:0px auto;
     display: block;
     padding: 50px auto;
+    
   }
   .box2 {
    margin-left: auto;
